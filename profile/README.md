@@ -86,6 +86,8 @@ No worries! Here's how to start:
 | Project | Description | Status |
 |---------|-------------|--------|
 | [🐳 Docker Hub API Gateway](https://github.com/InnoNestX/docker-hub-pull-counter) | Unified REST API gateway for Docker Hub with interactive docs and real-time testing | 🟢 Active |
+| [🦞 OpenClaw Trading Assistant plugin](https://github.com/InnoNestX/trading-assistant) | OpenClaw Trading Assistant - A fully functional trading decision support system that provides technical analysis, buy/sell signals, position management, and risk monitoring | 🟢 Active |
+| [🦞 AI-powered test case generation](https://github.com/InnoNestX/testcase-generator) | AI-powered test case generator for PRDs, specifications, and multimodal QA inputs. Supports PDF, Word, images, video. Exports Excel, Markdown, XMind. | 🟢 Active |
 
 **More projects coming soon...** 🚀
 
