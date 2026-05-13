@@ -86,6 +86,9 @@ No worries! Here's how to start:
 | Project | Description | Status |
 |---------|-------------|--------|
 | [🐳 Docker Hub API Gateway](https://github.com/InnoNestX/docker-hub-pull-counter) | Unified REST API gateway for Docker Hub with interactive docs and real-time testing | 🟢 Active |
+| [📊 GlobalPulse](https://github.com/InnoNestX/GlobalPulse) | GlobalPulse - 金融与国际热点智能推送平台，多市场交易日历 + 多渠道实时推送 + 灵活模板配置 + 定时简报发送 | 🟢 Active |
+| [🤖 Trading Assistant](https://github.com/InnoNestX/trading-assistant) | OpenClaw Trading Assistant - A fully functional trading decision support system that provides technical analysis, buy/sell signals, position management, and risk monitoring. | 🟢 Active |
+| [🧪 Test Case Generator](https://github.com/InnoNestX/testcase-generator) | AI-powered test case generator for PRDs, specifications, and multimodal QA inputs. Supports PDF, Word, images, video. Exports Excel, Markdown, XMind. | 🟢 Active |
 
 **More projects coming soon...** 🚀
 
