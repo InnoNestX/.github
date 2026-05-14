@@ -95,14 +95,6 @@ No worries! Here's how to start:
 
 ## 🤝 Get Involved
 
-### Ways to Contribute
-
-- 🐛 [Report a Bug](https://github.com/InnoNestX/docker-hub-pull-counter/issues)
-- 💡 [Request a Feature](https://github.com/InnoNestX/docker-hub-pull-counter/discussions)
-- 🔧 [Submit a PR](https://github.com/InnoNestX/docker-hub-pull-counter/pulls)
-- 💬 [Join Discussions](https://github.com/InnoNestX/docker-hub-pull-counter/discussions)
-- 📖 [Improve Documentation](https://github.com/InnoNestX/docker-hub-pull-counter)
-
 ### Need Help?
 
 - 📚 Check our [documentation](https://github.com/InnoNestX/.github/discussions)
