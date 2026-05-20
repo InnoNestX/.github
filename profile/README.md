@@ -134,7 +134,20 @@ Unless otherwise stated, InnoNestX projects are licensed under the [MIT License]
 
 ## 🌟 Community Stats
 
-[![InnoNestX GitHub stats](https://github-readme-stats.vercel.app/api?username=InnoNestX&show_icons=true&theme=dark&hide_border=true)](https://github.com/InnoNestX)
+<p align="center">
+  <a href="https://github.com/InnoNestX/GlobalPulse">
+    <img alt="GlobalPulse stars" src="https://img.shields.io/github/stars/InnoNestX/GlobalPulse?style=flat-square&label=GlobalPulse" />
+  </a>
+  <a href="https://github.com/InnoNestX/trading-assistant">
+    <img alt="Trading Assistant stars" src="https://img.shields.io/github/stars/InnoNestX/trading-assistant?style=flat-square&label=Trading%20Assistant" />
+  </a>
+  <a href="https://github.com/InnoNestX/testcase-generator">
+    <img alt="Test Case Generator stars" src="https://img.shields.io/github/stars/InnoNestX/testcase-generator?style=flat-square&label=Test%20Case%20Generator" />
+  </a>
+  <a href="https://github.com/InnoNestX/docker-hub-pull-counter">
+    <img alt="Docker Hub API Gateway stars" src="https://img.shields.io/github/stars/InnoNestX/docker-hub-pull-counter?style=flat-square&label=Docker%20Hub%20API%20Gateway" />
+  </a>
+</p>
 
 ---
 
