@@ -6,6 +6,13 @@ This repository powers the public GitHub organization profile for **[InnoNestX](
 |------|---------|
 | [`profile/README.md`](profile/README.md) | Content shown on [github.com/InnoNestX](https://github.com/InnoNestX) |
 | [`.github/FUNDING.yml`](.github/FUNDING.yml) | Sponsor / funding links for org repositories |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Default Code of Conduct for the organization |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute |
+| [`SECURITY.md`](SECURITY.md) | How to report vulnerabilities |
+| [`SUPPORT.md`](SUPPORT.md) | Where to ask for help |
+| [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Default issue forms |
+| [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) | Default pull request template |
+| [`.github/workflows/auto-assign.yml`](.github/workflows/auto-assign.yml) | Auto-assign new issues |
 | [`LICENSE`](LICENSE) | Default MIT license for this profile repo |
 
 ## Organization

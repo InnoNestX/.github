@@ -1,0 +1,31 @@
+name: Auto-assign issues
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  assign:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Assign opener or maintainer
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const maintainer = 'XuXuClassMate';
+            const issue = context.payload.issue;
+            const assignees = issue.assignees || [];
+            if (assignees.length > 0) {
+              core.info('Issue already has assignees; skipping.');
+              return;
+            }
+            await github.rest.issues.addAssignees({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issue.number,
+              assignees: [maintainer],
+            });
+            core.info(`Assigned @${maintainer}`);
