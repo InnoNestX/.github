@@ -1,153 +1,40 @@
-# 🏠 Welcome to InnoNestX
+# InnoNestX Organization Profile
 
-> **Innovation Nest for Excellence** — Where Ideas Take Flight
+This repository powers the public GitHub organization profile for **[InnoNestX](https://github.com/InnoNestX)**.
 
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
-[![GitHub followers](https://img.shields.io/github/followers/xuxuclassmate?style=flat-square&label=Follow)](https://github.com/xuxuclassmate)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23ff69b4?style=flat-square)](https://github.com/sponsors/InnoNestX)
-[![Discussions](https://img.shields.io/badge/Discussions-Welcome-blue?style=flat-square)](https://github.com/InnoNestX/.github/discussions)
+| Path | Purpose |
+|------|---------|
+| [`profile/README.md`](profile/README.md) | Content shown on [github.com/InnoNestX](https://github.com/InnoNestX) |
+| [`.github/FUNDING.yml`](.github/FUNDING.yml) | Sponsor / funding links for org repositories |
+| [`LICENSE`](LICENSE) | Default MIT license for this profile repo |
 
----
+## Organization
 
-<p align="center">
-  <a href="#about">About</a> ·
-  <a href="#projects">Projects</a> ·
-  <a href="#get-involved">Get Involved</a> ·
-  <a href="#support">Support</a>
-</p>
+**InnoNestX** — *Innovation Nest for Excellence*  
+Building practical, elegant, open-source tools for developers.
 
----
+- Org: [github.com/InnoNestX](https://github.com/InnoNestX)
+- Discussions: [InnoNestX/.github/discussions](https://github.com/InnoNestX/.github/discussions)
+- Contact: [mail@xuxuclassmate.com](mailto:mail@xuxuclassmate.com)
+- Site: [xuxuclassmate.com](https://www.xuxuclassmate.com)
 
-## 👋 About InnoNestX
+## Active projects
 
-**InnoNestX** is a community-driven organization dedicated to building **practical, elegant, and open-source tools** that solve real-world problems.
+| Project | Description | Homepage |
+|---------|-------------|----------|
+| [docker-hub-pull-counter](https://github.com/InnoNestX/docker-hub-pull-counter) | Docker Hub pull stats API, SVG cards, Shields badges, OpenAPI | [Demo](https://docker-hub-pull-counter.vercel.app) |
+| [GlobalPulse](https://github.com/InnoNestX/GlobalPulse) | Self-hosted market briefings on Cloudflare Workers | [Docs](https://innonestx.github.io/GlobalPulse/) |
+| [trading-assistant](https://github.com/InnoNestX/trading-assistant) | OpenClaw trading decision support | [Docs](https://innonestx.github.io/trading-assistant/) |
+| [testcase-generator](https://github.com/InnoNestX/testcase-generator) | Multimodal AI test-case generator | [Docs](https://innonestx.github.io/testcase-generator/) |
 
-### 🎯 Our Mission
+See [`profile/README.md`](profile/README.md) for the full organization landing page.
 
-We believe in:
+## Contributing
 
-- 🌱 **Practical First** — Solve real problems, not chase trends
-- 🎨 **Elegant Design** — Great tools should be a joy to use
-- 🤝 **Open Collaboration** — Open source benefits everyone
-- 📚 **Continuous Learning** — Every project is an opportunity to grow
+1. Prefer project-specific issues/PRs in the target repository
+2. Use [org Discussions](https://github.com/InnoNestX/.github/discussions) for cross-project topics
+3. Keep profile copy accurate when project descriptions or demos change
 
-### 💡 What We Build
+## License
 
-We focus on creating:
-
-- 🔧 **Developer Tools** — APIs, libraries, and utilities that make life easier
-- 📊 **Data Solutions** — Tools for accessing and understanding data
-- 🌐 **Web Applications** — Clean, functional, and user-friendly interfaces
-- 📖 **Educational Resources** — Sharing knowledge with the community
-
----
-
-## 🚀 Join Our Community!
-
-**We welcome contributors of all backgrounds and experience levels!**
-
-Whether you're a seasoned developer, a curious learner, or someone who just wants to help, there's a place for you at InnoNestX.
-
-### 🙌 How You Can Contribute
-
-| Role | What You Can Do |
-|------|-----------------|
-| **👨‍💻 Developer** | Write code, fix bugs, add features, improve performance |
-| **🧪 Tester** | Test new features, report bugs, verify fixes |
-| **📝 Writer** | Improve documentation, write tutorials, translate content |
-| **🎨 Designer** | Suggest UI/UX improvements, create assets |
-| **💬 Community Member** | Participate in discussions, help others, share feedback |
-| **⭐ Supporter** | Star our repos, spread the word, sponsor the project |
-
-### 🚀 Getting Started
-
-1. **Browse our projects** — Find something that interests you
-2. **Read the docs** — Understand the project structure
-3. **Pick an issue** — Start with `good first issue` or `help wanted`
-4. **Fork & PR** — Submit your changes
-5. **Join discussions** — Share your ideas in GitHub Discussions
-
-### 📚 First Contribution?
-
-No worries! Here's how to start:
-
-1. Find a project you like
-2. Look for issues labeled `good first issue`
-3. Comment on the issue to claim it
-4. Fork the repo and make your changes
-5. Submit a pull request
-
-**We're here to help!** Don't hesitate to ask questions in discussions.
-
----
-
-## 📦 Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| [🐳 Docker Hub API Gateway](https://github.com/InnoNestX/docker-hub-pull-counter) | Unified REST API gateway for Docker Hub with interactive docs and real-time testing | 🟢 Active |
-| [📊 GlobalPulse](https://github.com/InnoNestX/GlobalPulse) | GlobalPulse - Intelligent financial & global news push platform with multi-market trading calendar, real-time multi-channel delivery, flexible templates, and scheduled briefing delivery | 🟢 Active |
-| [🤖 Trading Assistant](https://github.com/InnoNestX/trading-assistant) | OpenClaw Trading Assistant - A fully functional trading decision support system that provides technical analysis, buy/sell signals, position management, and risk monitoring. | 🟢 Active |
-| [🧪 Test Case Generator](https://github.com/InnoNestX/testcase-generator) | AI-powered test case generator for PRDs, specifications, and multimodal QA inputs. Supports PDF, Word, images, video. Exports Excel, Markdown, XMind. | 🟢 Active |
-
-**More projects coming soon...** 🚀
-
----
-
-## 🤝 Get Involved
-
-### Ways to Contribute
-
-- 🐛 [Report a Bug](https://github.com/InnoNestX/docker-hub-pull-counter/issues)
-- 💡 [Request a Feature](https://github.com/InnoNestX/docker-hub-pull-counter/discussions)
-- 🔧 [Submit a PR](https://github.com/InnoNestX/docker-hub-pull-counter/pulls)
-- 💬 [Join Discussions](https://github.com/InnoNestX/docker-hub-pull-counter/discussions)
-- 📖 [Improve Documentation](https://github.com/InnoNestX/docker-hub-pull-counter)
-
-### Need Help?
-
-- 📚 Check our [documentation](https://github.com/InnoNestX/.github/discussions)
-- 💬 Ask in [GitHub Discussions](https://github.com/InnoNestX/.github/discussions)
-- 📧 Reach out via [GitHub](https://github.com/InnoNestX)
-
----
-
-## 💖 Support
-
-If our projects have helped you, consider supporting us:
-
-### 🌟 GitHub Sponsors
-Become a sponsor to support our open-source work:
-→ [github.com/sponsors/InnoNestX](https://github.com/sponsors/InnoNestX)
-
-### ☕ Buy Me a Coffee
-One-time support to keep us caffeinated:
-→ [buymeacoffee.com/xuxuclassmate](https://www.buymeacoffee.com/xuxuclassmate)
-
-### ⭐ Other Ways to Support
-- **Star our repositories** — It's free and means a lot!
-- **Share with friends** — Spread the word
-- **Write about us** — Blog posts, tutorials, reviews
-- **Provide feedback** — Help us improve
-
-**Every contribution counts!** Thank you for being part of our community. 🙏
-
----
-
-## 📄 License
-
-Unless otherwise stated, InnoNestX projects are licensed under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  <sub>
-    Made with ❤️ by InnoNestX · 
-    <a href="https://github.com/InnoNestX/.github">Organization Profile</a> ·
-    <a href="https://github.com/InnoNestX/.github/discussions">Discussions</a>
-  </sub>
-</p>
-
-<p align="center">
-  <strong>🚀 Ready to contribute? Pick a project and start today!</strong>
-</p>
+[MIT](LICENSE) © 2026 InnoNestX
