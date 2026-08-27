@@ -32,7 +32,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Report incidents to [mail@xuxuclassmate.com](mailto:mail@xuxuclassmate.com). All complaints will be reviewed and investigated promptly and fairly.
+Report incidents by opening a GitHub Issue in the relevant InnoNestX repository. All reports will be reviewed and investigated promptly and fairly.
 
 Community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
