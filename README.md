@@ -18,7 +18,7 @@
 
 ## About
 
-**InnoNestX** builds open-source tools that stay useful in production — APIs and dashboards for developers, market briefing bots you can self-host, trading helpers, and QA automation.
+**InnoNestX** builds open-source tools that stay useful in production — APIs and dashboards for developers, market briefing bots you can self-host, private web mail consoles, trading helpers, and QA automation.
 
 We care about:
 
@@ -32,7 +32,8 @@ We care about:
 | Area | Examples |
 |------|----------|
 | Developer tools | Docker Hub stats API, badges, embed cards |
-| Market intelligence | Scheduled briefings on Cloudflare Workers |
+| Communications | Custom Mail — web compose UI on Cloudflare Workers + Brevo |
+| Market intelligence | Scheduled briefings on Cloudflare Workers (GlobalPulse) |
 | Trading support | Technical analysis & risk helpers for OpenClaw |
 | QA tooling | Multimodal test-case generation from PRDs |
 
@@ -42,6 +43,7 @@ We care about:
 
 | Project | What it does | Links |
 |---------|--------------|-------|
+| **[Custom Mail](https://github.com/InnoNestX/Custom-Mail)** | Private web mail console on Cloudflare Workers. Markdown compose, attachments, preview, send history — outbound via Brevo | [Live](https://mail.xuxuclassmate.com) · [Docs](https://github.com/InnoNestX/Custom-Mail/tree/main/docs) · [Repo](https://github.com/InnoNestX/Custom-Mail) |
 | **[Docker Hub Pull Counter](https://github.com/InnoNestX/docker-hub-pull-counter)** | REST API gateway for Docker Hub: user pull totals, SVG stats cards, Shields badges, user compare, pull history, OpenAPI docs, live API console | [Demo](https://docker-hub-pull-counter.vercel.app) · [Docs](https://docker-hub-pull-counter.vercel.app/docs.html) · [Repo](https://github.com/InnoNestX/docker-hub-pull-counter) |
 | **[GlobalPulse](https://github.com/InnoNestX/GlobalPulse)** | Self-hosted market briefing bot on Cloudflare Workers. A-share / US stock / crypto / hotspot digests → Feishu, WeChat, Telegram, Email (plus Discord / Slack) | [Docs](https://innonestx.github.io/GlobalPulse/) · [中文](https://innonestx.github.io/GlobalPulse/zh/) · [Repo](https://github.com/InnoNestX/GlobalPulse) |
 | **[Trading Assistant](https://github.com/InnoNestX/trading-assistant)** | OpenClaw trading decision helper: support/resistance, multi-indicator signals, position sizing, stop-loss / take-profit, risk monitoring | [Docs](https://innonestx.github.io/trading-assistant/) · [Repo](https://github.com/InnoNestX/trading-assistant) |
